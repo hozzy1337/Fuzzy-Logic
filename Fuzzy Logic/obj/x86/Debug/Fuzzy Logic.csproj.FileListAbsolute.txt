@@ -1,0 +1,5 @@
+C:\Users\hozzy\documents\visual studio 2010\Projects\Fuzzy Logic\Fuzzy Logic\bin\Debug\Fuzzy Logic.exe
+C:\Users\hozzy\documents\visual studio 2010\Projects\Fuzzy Logic\Fuzzy Logic\bin\Debug\Fuzzy Logic.pdb
+C:\Users\hozzy\documents\visual studio 2010\Projects\Fuzzy Logic\Fuzzy Logic\obj\x86\Debug\Fuzzy Logic.csprojResolveAssemblyReference.cache
+C:\Users\hozzy\documents\visual studio 2010\Projects\Fuzzy Logic\Fuzzy Logic\obj\x86\Debug\Fuzzy Logic.exe
+C:\Users\hozzy\documents\visual studio 2010\Projects\Fuzzy Logic\Fuzzy Logic\obj\x86\Debug\Fuzzy Logic.pdb
